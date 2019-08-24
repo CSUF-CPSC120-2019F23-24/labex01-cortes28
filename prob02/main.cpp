@@ -18,7 +18,7 @@ int main()
   pay = hours * rate;
 
   // Display the pay.
-  std::cout << "You have earned $" << pay << std::endl;
+  std::cout << "Congratulations! You have earned $" << pay << std::endl;
 
   return 0;
 }
